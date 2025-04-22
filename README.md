@@ -68,4 +68,4 @@ Sales Summary KPIs    | KPI Cards            | Total sales: $2.30M, Profit: $286
 This project demonstrates how thoughtful visualization can turn a dataset into a story that drives business understanding and decision-making. The visuals focus not only on presenting the data but also on uncovering **what matters**, **why it matters**, and **what actions to take**.
 
 ---
-
+![image alt](https://github.com/Mallikarjun-9/superstore-sales-dashboard/blob/579d3a6d0f5f386c4edae68396d14c14e0a7231f/Screenshot%202025-04-22%20163715.png)
