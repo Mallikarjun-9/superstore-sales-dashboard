@@ -12,7 +12,7 @@ This project aims to transform raw sales data into meaningful insights through c
 - **Microsoft Excel** (Initial Data Exploration)
 - **Superstore.csv** (Sample sales dataset)
 
----
+--- 
 
 ## 📁 Dataset Overview
 **Superstore.csv** contains detailed records of customer orders including:
