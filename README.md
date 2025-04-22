@@ -26,13 +26,15 @@ This project aims to transform raw sales data into meaningful insights through c
 
 ## 📊 Key Visualizations
 
-Visualization Title   | Type                 | Insight
-Sales by Segment      | Pie Chart            | Consumer segment drives over 50% of total sales
-Sales Over Time       | Line/Area Chart      | Identified declining sales trend over time
-Sales by Sub-Category | Horizontal Bar Chart | Phones and Chairs are top contributors
-Sales by State        | Pareto Line Chart    | California significantly leads in sales
-Sales by Region       | Donut Chart          | West region accounts for the largest share (31.58%)
-Sales Summary KPIs    | KPI Cards            | Total sales: $2.30M, Profit: $286.40K, Discount: 1.56K, Quantity: 38K
+| Visualization Title                  | Type                      | Insight |
+|-------------------------------------|---------------------------|---------|
+| **Sales by Segment**                | Pie Chart                 | Consumer segment contributes more than 50% of total sales |
+| **Sales Over Time**                 | Area/Line Chart           | Shows a declining trend in recent periods |
+| **Sales by Sub-Category**           | Horizontal Bar Chart      | Phones and Chairs are the top-selling sub-categories |
+| **Sales by State (Pareto)**         | Pareto Line Chart         | California dominates sales while many states contribute less |
+| **Sales by Region**                 | Donut Chart               | The West region leads with the highest share (31.58%) |
+| **Sales KPIs Summary**             | KPI Cards                 | Total Sales: $2.30M, Profit: $286.40K, Discount: 1.56K, Quantity: 38K |
+
 ---
 
 ## 📌 Design Principles Followed
